@@ -10,8 +10,10 @@ import Counter from './Counter';
 // https://github.com/reactjs/react-router/issues/2182
 export default class App extends Component {
   render() {
+    // throw new Error('tests')
     return (
       <Layout>
+        sdfsdf sdf
         <Counter />
       </Layout>
     );
